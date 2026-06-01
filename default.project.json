@@ -1,0 +1,14 @@
+{
+  "name": "luau-demo",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "luau-demo": {
+        "$path": "src"
+      },
+      "Packages": {
+        "$path": "Packages"
+      }
+    }
+  }
+}

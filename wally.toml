@@ -1,0 +1,19 @@
+[package]
+name = "superinstance/luau-demo"
+version = "0.1.0"
+license = "MIT"
+author = "SuperInstance"
+description = "LAU game engine integration demo — all 10 Luau packages wired together"
+realm = "shared"
+
+[dependencies]
+Spatial = "superinstance/luau-spatial@0.1.0"
+Biome = "superinstance/luau-biome@0.1.0"
+Quest = "superinstance/luau-quest@0.1.0"
+Scheduler = "superinstance/luau-scheduler@0.1.0"
+Conservation = "superinstance/luau-conservation@0.1.0"
+Recipe = "superinstance/luau-recipe@0.1.0"
+Genealogy = "superinstance/luau-genealogy@0.1.0"
+Math = "superinstance/luau-math@0.1.0"
+GitWorld = "superinstance/luau-git-world@0.1.0"
+Audio = "superinstance/luau-audio@0.1.0"

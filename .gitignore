@@ -1,0 +1,6 @@
+*.rbxl
+*.rbxlk
+*.rbxm
+*.rbxmx
+.servo
+Packages/
